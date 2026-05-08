@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "beranda": "Home",
+    "tentang": "About Us",
+    "peta": "Area Map",
+    "fasilitas": "Facilities",
+    "berita": "News",
+    "kontak": "Contact",
+    "jelajahi": "Explore 360°"
+  },
+  "hero": {
+    "tag": "INNOVATION • COLLABORATION • SUSTAINABILITY",
+    "judul": "Building the Future Together with Al Amin Techno Park",
+    "deskripsi": "Panca Budi Al Amin Techno Park is an innovation, technology, and education hub supporting future development.",
+    "btnKawasan": "Explore Area",
+    "btnVideo": "Watch Video"
+  },
+  "zona": {
+    "judul": "Area Zones",
+    "z1": "Reception, Sport Centre & Rusunawa Zone",
+    "z2": "Product Processing & Market Place Zone",
+    "z3": "Main Plaza & Area Management Office Zone",
+    "z4": "Agriculture & Plantation Zone",
+    "z5": "Livestock Zone",
+    "z6": "Nature Tourism & Outdoor Recreation Zone",
+    "z7": "Service Zone",
+    "z8": "Al-Amin Mosque Zone"
+  },
+  "virtualTour": {
+    "tag": "EXPLORE THE AREA",
+    "judul": "Virtual Tour",
+    "deskripsi": "Experience exploring Al Amin Techno Park virtually",
+    "btn": "Start 360° Explore"
+  },
+  "tentang": {
+    "judul": "About Al Amin Techno Park",
+    "deskripsi": "Al Amin Techno Park is an integrated area focused on innovation, research, education, and collaboration between industry, academics, and the community.",
+    "visi": "Vision",
+    "misi": "Mission",
+    "visiText": "To become a world-class innovation and education center contributing to national progress.",
+    "nilaiKami": "OUR VALUES",
+    "sejarah": "BRIEF HISTORY",
+    "perjalanan": "Al Amin Techno Park Journey"
+  },
+  "fasilitas": {
+    "judul": "Al Amin Techno Park Facilities",
+    "subjudul": "As Supporting Facilities",
+    "deskripsi": "Various facilities at Al Amin Techno Park that you can utilize to support research development, innovation, and practical learning experiences.",
+    "akses": "Access Facilities"
+  },
+  "berita": {
+    "judul": "Building the Future with Al Amin Techno Park",
+    "deskripsi": "Panca Budi Al Amin Techno Park is an innovation, technology, and education hub supporting future development.",
+    "semua": "All",
+    "cari": "Search News...",
+    "baca": "Read More",
+    "oleh": "by"
+  },
+  "kontak": {
+    "judul": "CONTACT",
+    "subjudul": "Contact Us",
+    "lokasi": "Location",
+    "email": "Email",
+    "telepon": "Phone",
+    "alamat": "Jl. Berdikari Dusun 3 no 200 Buluhnipes, Sampe Cita, Kec. Kutalimbaru, Deli Serdang Regency, North Sumatra 20354"
+  },
+  "peta": {
+    "judul": "Science Techno Park (STP) Al-Amin",
+    "selengkapnya": "See More"
+  },
+  "footer": {
+    "ikuti": "Follow Us"
+  }
+}
